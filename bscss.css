@@ -1,0 +1,36 @@
+
+.navbar-nav li{
+    padding-left: 45px;
+    padding-right: 45px;
+}
+.container-fluid{
+    margin: 0;
+    padding: 0;
+    background-image: url('1561995.jpg');
+    min-height: 100vh;
+}
+#welcome{
+    color: white;
+    padding-top: 14vh;
+    font-size: 50px;
+    justify-content: center;
+}
+#greet{
+    color: white;
+    padding-top: 3vh;
+}
+#search-bar{
+    padding-top: 5vh;
+    max-width: 100vh;
+}
+
+.box{
+    background-color: lightblue;
+    border: 1px solid blue;
+    min-height: 50px;
+    font-size: 2rem;
+    
+}
+#options{
+    padding-top: 10vh;
+}
