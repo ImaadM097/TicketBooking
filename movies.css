@@ -19,7 +19,7 @@
     background: transparent;
     
 }
-.card.h-100:hover:after {
+/* .card.h-100 image:hover:after {
     content: "";
     position: absolute;
     top: 0;
@@ -28,7 +28,8 @@
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 1;
-}
+} */
 image{
     border-radius: 14px;
+    max-height: 55vh; max-width: 40vh;
 }
